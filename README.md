@@ -36,11 +36,11 @@ confidence_threshold = 0.5  # Set your desired confidence threshold
 ````
 ## Example
 
-Below is an example of the output from the YOLO and OpenCV object detection:https://drive.google.com/drive/u/1/folders/1QuR4pli3nyPK-cK6GsfhSq2tLd4ydvLW
+Below is an example of the output from the YOLO and OpenCV object detection:
 
 ![Sample Output](output_image.jpg)
 
 In the sample image, detected objects are highlighted with bounding boxes and class labels, along with their respective confidences.
 
-In order to get the weights for the algorithm, click on this drive link: 
+In order to get the weights for the algorithm, click on this drive link: https://drive.google.com/drive/u/1/folders/1QuR4pli3nyPK-cK6GsfhSq2tLd4ydvLW
 
