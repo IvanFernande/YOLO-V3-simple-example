@@ -11,6 +11,7 @@ This is a project for object detection using the YOLO (You Only Look Once) model
 - An input image with a perspective similar to the human eye
 
 ## Installation
+In order to get the weights for the algorithm, click on this drive link: https://drive.google.com/drive/u/1/folders/1QuR4pli3nyPK-cK6GsfhSq2tLd4ydvLW
 
 1. Clone or download this repository to your local machine.
 
@@ -41,6 +42,4 @@ Below is an example of the output from the YOLO and OpenCV object detection:
 ![Sample Output](output_image.jpg)
 
 In the sample image, detected objects are highlighted with bounding boxes and class labels, along with their respective confidences.
-
-In order to get the weights for the algorithm, click on this drive link: https://drive.google.com/drive/u/1/folders/1QuR4pli3nyPK-cK6GsfhSq2tLd4ydvLW
 
